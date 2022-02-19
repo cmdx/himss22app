@@ -8,8 +8,9 @@ ENV/
 env.bak/
 venv.bak/
 
-# Uncompressed data directory
+# Uncompressed data directory & data files
 data/
+**/*.csv
 
 # Mac files
 **/.DS_Store
